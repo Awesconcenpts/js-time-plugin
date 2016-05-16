@@ -1,4 +1,4 @@
-(function ($) {
+xx(function ($) {
     var base;
     $.time = function (el, options) {
         base = this;
